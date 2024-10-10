@@ -1,4 +1,4 @@
-# Calisthenic Fundamentals
+# Calisthenics Fundamentals
 
 
 #### Front Lever
@@ -44,7 +44,7 @@
 #### Strict Pull-Over
 
 - [Strict Chin-Up Pullover FULL CLASS](https://www.youtube.com/watch?v=OWibV8HO-Vo)
-
+- [Building More Muscle & Strength w/ Seated Pull-Ups](https://www.youtube.com/watch?v=aBsfktQ4_zw)
 
 
 # Flexibility & Mobility
