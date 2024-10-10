@@ -3,13 +3,19 @@
 import markdown
 import jinja2
 
-with open("README.md") as f:
-  content = markdown.markdown(f.read())
-
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath="./"), autoescape=False)
 template = env.get_template("index.html.j2")
 
+
+with open("calisthenics.md") as f:
+  calisthenics = markdown.markdown(f.read())
+
+
+with open("mobility.md") as f:
+  mobility = markdown.markdown(f.read())
+
+
 with open("index.html", "w") as f:
-  f.write(template.render(content=content))
+  f.write(template.render(calisthenics=calisthenics, mobility=mobility))
 

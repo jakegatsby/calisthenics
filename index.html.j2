@@ -6,13 +6,34 @@
   <title>Gymnastics Calisthenics</title>
 
   <link rel="stylesheet" href="pico.min.css" />
+  <style>
+    .dropdown-container {
+      margin-top: 2rem;
+    }
+    
+    .dropdown-button {    
+      margin-top: 1rem;
+      text-align: center !important;
+    }
+    
+  </style>
 </head>
 
 <body>
 
 <div class="container-fluid" style="margin-top: 3em; margin-bottom: 3em">
 
-{{ content }}
+<details class="dropdown-container">
+  <summary role="button" class="dropdown-button">Calisthenics Fundamentials</summary>
+{{ calisthenics }}  
+</details>
+
+<details class="dropdown-container">
+  <summary role="button"class="dropdown-button">Flexibility & Mobility</summary>
+{{ mobility }}  
+</details>
+
+
 
 </div>
 </body>
