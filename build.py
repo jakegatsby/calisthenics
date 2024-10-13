@@ -8,6 +8,10 @@ env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath="./"), autoes
 template = env.get_template("index.html.j2")
 
 
+with open("wod.md") as f:
+  wod = markdown.markdown(f.read())
+
+
 with open("calisthenics.md") as f:
   calisthenics = markdown.markdown(f.read())
 
@@ -17,5 +21,5 @@ with open("mobility.md") as f:
 
 
 with open("index.html", "w") as f:
-  f.write(template.render(calisthenics=calisthenics, mobility=mobility))
+  f.write(template.render(wod=wod, calisthenics=calisthenics, mobility=mobility))
 

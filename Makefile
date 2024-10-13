@@ -16,3 +16,12 @@ clean:
 serve:
 	python -m http.server
 
+
+.PHONY: publish
+publish:
+	firefox https://pages.cloudflare.com/
+
+
+.PHONY: view
+view:
+	firefox https://gymnastics-calisthenics.pages.dev/

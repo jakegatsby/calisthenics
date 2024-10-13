@@ -37,10 +37,15 @@
 #### Handstands
 
 - [Ranking Beginner Handstand Progressions | Tier List ](https://www.youtube.com/watch?v=OcVXshPjDiA)
+- [Eccentric Wall Pike Press x 10](https://youtu.be/sxPI-djRd84?si=Pfsxzv8H4lk3FJRg&t=100)
 
 #### Strict Pull-Over
 
 - [Strict Chin-Up Pullover FULL CLASS](https://www.youtube.com/watch?v=OWibV8HO-Vo)
 - [Building More Muscle & Strength w/ Seated Pull-Ups](https://www.youtube.com/watch?v=aBsfktQ4_zw)
 
+
+#### Standing Back Tuck
+
+- [Savchuk Ivan | BACKFLIP DRILLS](https://www.instagram.com/ivan.savchuk/reel/DBBbKhPNyOn/)
 
