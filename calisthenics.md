@@ -37,7 +37,7 @@
 #### Handstands
 
 - [Ranking Beginner Handstand Progressions | Tier List ](https://www.youtube.com/watch?v=OcVXshPjDiA)
-- [Eccentric Wall Pike Press x 10](https://youtu.be/sxPI-djRd84?si=Pfsxzv8H4lk3FJRg&t=100)
+- [Eccentric Wall Pike Press](https://youtu.be/sxPI-djRd84?si=Pfsxzv8H4lk3FJRg&t=100)
 
 #### Strict Pull-Over
 

@@ -19,8 +19,7 @@ serve:
 
 .PHONY: publish
 publish:
-	firefox https://pages.cloudflare.com/
-
+	firefox https://dash.cloudflare.com/a7700637397b3281f1891768d30c8768/pages/view/gymnastics-calisthenics
 
 .PHONY: view
 view:
