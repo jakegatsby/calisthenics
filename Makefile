@@ -1,15 +1,12 @@
-
-
-
 .PHONY: build
 build: clean
 	./build.py
-	zip calisthenics.zip index.html pico.min.css
+	zip site.zip index.html pico.min.css
 
 
 .PHONY: clean
 clean:
-	rm -f index.html calisthenics.zip
+	rm -f index.html site.zip
 
 
 .PHONY: serve

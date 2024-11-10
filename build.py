@@ -7,13 +7,8 @@ import jinja2
 env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath="./"), autoescape=False)
 template = env.get_template("index.html.j2")
 
-
-with open("wod.md") as f:
-  wod = markdown.markdown(f.read())
-
-
-with open("calisthenics.md") as f:
-  calisthenics = markdown.markdown(f.read())
+with open("skills.md") as f:
+  skills = markdown.markdown(f.read())
 
 
 with open("mobility.md") as f:
@@ -21,5 +16,5 @@ with open("mobility.md") as f:
 
 
 with open("index.html", "w") as f:
-  f.write(template.render(wod=wod, calisthenics=calisthenics, mobility=mobility))
+  f.write(template.render(skills=skills, mobility=mobility))
 

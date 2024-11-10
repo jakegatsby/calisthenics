@@ -21,6 +21,8 @@
 #### Ring Muscle Ups
 
 - [Master the Ring Muscle Up | 4 Best Exercises](https://www.youtube.com/watch?v=vpPjY4BtJuI)
+- [HOW TO FIX YOUR RING SWING W/ DAVE DURANTE](https://www.youtube.com/watch?v=XGw46266sCE)
+
 
 #### Ring Pushups
 
