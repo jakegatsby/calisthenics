@@ -1,44 +1,36 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Gymnastics Skills and Mobility</title>
 
   <link rel="stylesheet" href="pico.min.css" />
-  <style>
-    .dropdown-container {
-      margin-top: 2rem;
-    }
-
-    .dropdown-button {
-      margin-top: 1rem;
-      text-align: center !important;
-    }
-  </style>
 </head>
 
 <body>
 
-<div class="container-fluid" style="margin-top: 3em; margin-bottom: 3em">
+  <div class="container-fluid" style="margin-top: 3em; margin-bottom: 3em">
 
-<details class="dropdown-container">
-  <summary role="button" class="dropdown-button">Skills</summary>
-{{ skills }}
-</details>
+    <details class="dropdown-container">
+      <summary role="button" class="dropdown-button">Skills</summary>
+    {{ skills }}
+    </details>
 
-<details class="dropdown-container">
-  <summary role="button"class="dropdown-button">Flexibility & Mobility</summary>
-{{ mobility }}
-</details>
-
-
-<details class="dropdown-container">
-  <summary role="button"class="dropdown-button">Prehab & Rehab</summary>
-{{ prehab_rehab }}
-</details>
+    <details class="dropdown-container">
+      <summary role="button"class="dropdown-button">Flexibility & Mobility</summary>
+    {{ mobility }}
+    </details>
 
 
-</div>
+    <details class="dropdown-container">
+      <summary role="button"class="dropdown-button">Prehab & Rehab</summary>
+    {{ prehab_rehab }}
+    </details>
+
+  </div>
+
 </body>
+
 </html>
